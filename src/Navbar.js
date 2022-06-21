@@ -11,6 +11,8 @@ export default function Navbar() {
                 <CustomLink to="/Portfolio">Portfolio</CustomLink>
                 <CustomLink to="/TradingHistory">Trading History</CustomLink>
                 <CustomLink to="/PendingOrders">Pending Orders</CustomLink>
+                <CustomLink to="/Register">Register Page</CustomLink>
+                <CustomLink to="/Login">Login Page</CustomLink>
             </ul>
         </nav>
     )
