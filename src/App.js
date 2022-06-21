@@ -8,7 +8,6 @@ import TradingHistory from "./Pages/TradingHistory"
 function App() {
   return (
     <>
-      <h1>Hello</h1>
       <Navbar />
       <div className="container">
         <Routes>
